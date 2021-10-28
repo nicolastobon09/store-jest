@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer snapshot Compare snapchot 1`] = `
+<div
+  className="Footer"
+>
+  <p
+    className="Footer-title"
+  >
+    Platzi Store
+  </p>
+  <p
+    className="Footer-copy"
+  >
+    Todos los Izquierdos Reservados
+  </p>
+</div>
+`;
+
+exports[`Footer snapshot Compare snapshot 1`] = `
+<div
+  className="Footer"
+>
+  <p
+    className="Footer-title"
+  >
+    Platzi Store
+  </p>
+  <p
+    className="Footer-copy"
+  >
+    Todos los Izquierdos Reservados
+  </p>
+</div>
+`;
